@@ -1,0 +1,97 @@
+
+
+/***********************************HEADING-BAR****************************************/
+/* #navigation--bar{
+  display: flex;
+  background-color: rgb(227,228,230);
+  overflow: auto;
+  margin-top: 3vh;
+} */
+
+
+/***********************************To-do********************/
+/* 
+#to-do-heading{
+  border-style: solid;
+}
+#inner-to-do{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 33vw;
+  margin-bottom: 1vh;
+}
+#to-do--input{
+  height: 3vh;
+}
+#to-do--textarea{
+  height: 3vh;
+} */
+
+
+
+/***********************************Progress********************/
+/* 
+#progress-list-heading{
+  background-color: rgb(227,228,230);
+  width: 33vw;
+  border-style: solid;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+} */
+
+
+/***********************************Completed********************/
+
+/* #complete-heading{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgb(227,228,230);
+  width: 33vw;
+  border-style: solid;
+} */
+
+
+/**************************************LISTS******************************************/
+/* #lists{
+  display: flex;
+  background-color: red;
+}
+#to-do-list{
+ background-color: violet;
+ width: 33vw;
+ border-style: solid;
+}
+#progress-list{
+  background-color: violet;
+ width: 32.8vw;
+ border-style: solid;
+}
+#complete-list{
+  background-color: violet;
+ width: 33vw;
+ border-style: solid;
+} */
+
+
+
+/*******************************GENERAl****************************************/
+
+.listitems{
+  list-style: none;
+  /* border-style: solid; */
+}
+/*
+.list-heading-div{
+  display: flex;
+  align-items: center;
+}
+.buttons{
+  margin-left: 1vw;
+}
+#title{
+  align-items: center;
+} */
